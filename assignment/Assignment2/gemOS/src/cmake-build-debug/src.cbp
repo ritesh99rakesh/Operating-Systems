@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="src"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src">
+				<Option output="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/src.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include"/>
+					<Add directory="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src/fast">
+				<Option output="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/src.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include"/>
+					<Add directory="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/c/Users/RITESH\ KUMAR/Dropbox/semester7/Operating\ Systems\ (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/apic.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/context.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/entry.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/file.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/fs.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/idt.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/apic.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/context.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/entry.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/file.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/fs.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/idt.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/init.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/kbd.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/lib.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/memory.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/pipe.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/schedule.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/serial.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/include/types.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/kbd.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/lib.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/main.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/memory.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/pipe.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/schedule.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/serial.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/shell.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/init.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/lib.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/test_cases/testcase1.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/test_cases/testcase2.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/test_cases/testcase3.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/test_cases/testcase4.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/test_cases/testcase5.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/user/ulib.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,5 @@
+*.aux
+*.log
+*.o
+*.out
+*.bak

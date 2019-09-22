@@ -1,0 +1,3 @@
+/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/CMakeFiles/src.dir
+/cygdrive/c/Users/RITESH KUMAR/Dropbox/semester7/Operating Systems (CS330)/assignment/assignment2/gemOS/src/cmake-build-debug/CMakeFiles/edit_cache.dir
