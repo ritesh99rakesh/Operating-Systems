@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="src"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ritesh/Assignment3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ritesh/Assignment3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src">
+				<Option output="/home/ritesh/Assignment3/src/cmake-build-debug/src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ritesh/Assignment3/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ritesh/Assignment3/src/include"/>
+					<Add directory="/home/ritesh/Assignment3/src/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="src/fast">
+				<Option output="/home/ritesh/Assignment3/src/cmake-build-debug/src" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ritesh/Assignment3/src/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/ritesh/Assignment3/src/include"/>
+					<Add directory="/home/ritesh/Assignment3/src/user"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 src/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ritesh/Assignment3/src/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/ritesh/Assignment3/src/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ritesh/Assignment3/src/apic.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/cfork.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/context.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/entry.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/idt.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/apic.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/cfork.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/context.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/entry.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/idt.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/init.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/kbd.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/lib.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/memory.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/mmap.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/page.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/schedule.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/serial.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/include/types.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/kbd.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/lib.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/main.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/memory.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/mmap.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/page.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/schedule.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/serial.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/shell.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase1.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase2.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase3.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase4.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase5.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-1/testcase6.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-2/testcase1.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-2/testcase2.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-2/testcase3.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase1.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase2.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase3.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase4.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase5.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase6.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase7.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase8.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/Testcases/Task-3/testcase9.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/init.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/init_args.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/init_clone.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/lib.c">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/user/ulib.h">
+			<Option target="src"/>
+		</Unit>
+		<Unit filename="/home/ritesh/Assignment3/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
