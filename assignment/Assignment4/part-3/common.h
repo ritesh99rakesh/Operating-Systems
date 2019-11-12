@@ -116,7 +116,7 @@ static void dump_hash_table(hash_t *h)
    
    for(ctr=0; ctr < h->table_size; ++ctr){
        if(entry->key){
-              printf("id: %u key=%lu datalen=%u ptr=%p\n", entry->id, entry->key, entry->datalen, entry->data);
+              printf("id: %u key=%lu datalen=%u\n", entry->id, entry->key, entry->datalen);
               lused--;
        }
        entry++;

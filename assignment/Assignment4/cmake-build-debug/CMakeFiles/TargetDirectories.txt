@@ -1,0 +1,3 @@
+/media/ritesh/RITESH/Study/semester_7/Operating-Systems/assignment/Assignment4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/ritesh/RITESH/Study/semester_7/Operating-Systems/assignment/Assignment4/cmake-build-debug/CMakeFiles/Assignment4.dir
+/media/ritesh/RITESH/Study/semester_7/Operating-Systems/assignment/Assignment4/cmake-build-debug/CMakeFiles/edit_cache.dir
